@@ -1,0 +1,22 @@
+
+    .top-section {
+        margin-top: 500px;
+    }
+        div {
+            height: 100px;
+            width: 100px;
+            display: inline-block;
+            background-color: bisque;
+        }
+        .div2 {
+            background-color: red;
+        }
+        .redbackground {
+            background-color: red;
+        }
+        section.feature-section p.orange-color {
+            color: orange;
+            }
+            .featureimage {
+                width: 80%;
+            }
